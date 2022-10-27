@@ -114,7 +114,7 @@ const SignUpForm = () => {
           </form>
         </div>
         <p>
-          Don't have an account?{" "}
+          Already have an Account?{" "}
           <Link to="/login" className="loga">
             Login{" "}
           </Link>
