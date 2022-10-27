@@ -2,7 +2,7 @@ import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { useMemo } from "react";
 import { Link } from "react-router-dom";
-import previous from "../../assets/previous.png";
+import previous from "../../Assets/previous.png";
 
 const ProfileInfo = () => {
   const [profileData, setProfileData] = useState([]);

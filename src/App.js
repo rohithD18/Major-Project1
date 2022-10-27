@@ -1,12 +1,12 @@
 import "./App.css";
-import HomePage from "./Form_Data/componenets/HomePage";
-import LoginForm from "./Form_Data/componenets/loginForm";
-import SignUpForm from "./Form_Data/componenets/signupform";
-import OtpVerification from "./Form_Data/componenets/otpValid";
+import HomePage from "./Form_Data/Componenets/HomePage";
+import LoginForm from "./Form_Data/Componenets/LoginForm";
+import SignUpForm from "./Form_Data/Componenets/Signupform";
+import OtpVerification from "./Form_Data/Componenets/OtpValid";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import ProfileInfo from "./Form_Data/componenets/profileInfo";
-import UserProfile from "./Form_Data/componenets/userProfile";
-import OpeningPage from "./Form_Data/componenets/openingPage";
+import ProfileInfo from "./Form_Data/Componenets/ProfileInfo";
+import UserProfile from "./Form_Data/Componenets/UserProfile";
+import OpeningPage from "./Form_Data/Componenets/OpeningPage";
 
 function App() {
   return (

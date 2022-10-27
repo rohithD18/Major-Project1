@@ -2,7 +2,7 @@ import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { useMemo } from "react";
 import { Link, useParams } from "react-router-dom";
-import previous from "../../assets/previous.png";
+import previous from "../../Assets/previous.png";
 
 const UserInfo = () => {
   let { id } = useParams();
